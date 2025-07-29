@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./src/img/site.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./img/capa.PNG" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Projeto de um Site de Blog Responsivo </h3>
@@ -20,7 +20,7 @@
     <br> 
 </p>
 <p align="center">
-  <a href="https://renanvt.github.io/projeto-narutoshippuden/">Site do Projeto</a>
+  https://renanvt.github.io/desafio-android/
 </p>
 
 ## 📝 Tabela de Conteúdos
@@ -37,7 +37,7 @@
 
 ## 🧐 Sobre <a name = "about"></a>
 
-Projeto pessoal de um site de de blog responsivo. Aplicando a teorias de design e UI
+Projeto pessoal de um site de de blog responsivo. Aplicando a teorias de design e UI. O site está responsivo mais não utilizei media queries
 
 ## 🏁 Primeiros Passos <a name = "getting_started"></a>
 
